@@ -1,4 +1,4 @@
-# Beginner Web IoT
+# Pet Feeder PHP Based IoT Management System
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Certificate](https://img.shields.io/badge/Certificate-Available-blue)](https://github.com/user-attachments/files/18722930/Sertifikat.pdf)
 
